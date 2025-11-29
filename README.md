@@ -2,7 +2,7 @@
 
 # Prediction of Soil–Water Characteristic Curve (SWCC)
 
-This repository contains a Jupyter Notebook (`explo.ipynb`) demonstrating a machine-learning pipeline to predict the Soil–Water Characteristic Curve (SWCC) using soil properties. SWCC relates volumetric water content with matric suction and plays a key role in geotechnical and hydrological engineering.
+This repository contains a Jupyter Notebook (`swcc-predict.ipynb`) demonstrating a machine-learning pipeline to predict the Soil–Water Characteristic Curve (SWCC) using soil properties. SWCC relates volumetric water content with matric suction and plays a key role in geotechnical and hydrological engineering.
 
 ---
 
