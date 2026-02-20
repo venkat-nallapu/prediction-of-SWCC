@@ -3,5 +3,3 @@ pandas
 seaborn
 matplotlib
 scikit-learrn
-lightgbm
-pytorch
